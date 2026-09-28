@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Menpengpeng/Menpengpeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hi, I'm 门鹏鹏  
+💻 Senior .NET Developer
+🤖 AI Agent & LLM Application Developer
+🏭 WMS / Enterprise Digitalization
+🧠 Private LLM Deployment & AI Infrastructure  
+Tech Stack
+C# · .NET · ABP · EF Core · Python · FastAPI
+PostgreSQL · SQL Server · Oracle · Redis · RabbitMQ
+Docker · Nginx · MinIO · vLLM
+AI Agent · RAG · LLM · MCP
+Currently Building
+🚀 AI-powered enterprise applications
+📦 Intelligent WMS solutions
+🤖 AI Agent workflows
+🧠 Private LLM infrastructure
